@@ -69,7 +69,7 @@
     "git-widget-placeholder": "testing"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_assignment.test_dropdown">
+  <component name="RunManager" selected="Python tests.Python tests for test_statictable.test_dropdown">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pw_python" />
       <option name="ENV_FILES" value="" />
@@ -167,21 +167,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_page.test_css_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pw_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_page.test_css_id&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_playwrightlocator.test_getbytext" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="pw_python" />
       <option name="ENV_FILES" value="" />
@@ -197,23 +182,38 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_statictable.test_dropdown" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pw_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_statictable.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python tests.Python tests for test_css_selector.test_css_id" />
       <item itemvalue="Python tests.Python tests for test_playwrightlocator.test_getbytext" />
+      <item itemvalue="Python tests.Python tests for test_statictable.test_dropdown" />
       <item itemvalue="Python tests.Python tests for test_assignment.test_dropdown" />
       <item itemvalue="Python tests.Python tests for test_checkbox.test_checkox" />
       <item itemvalue="Python tests.Python tests for test_checkbox.test_css_id" />
       <item itemvalue="Python tests.Python tests for test_dropdown.test_dropdown" />
-      <item itemvalue="Python tests.Python tests for test_page.test_css_id" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_statictable.test_dropdown" />
         <item itemvalue="Python tests.Python tests for test_assignment.test_dropdown" />
         <item itemvalue="Python tests.Python tests for test_dropdown.test_dropdown" />
         <item itemvalue="Python tests.Python tests for test_checkbox.test_checkox" />
         <item itemvalue="Python tests.Python tests for test_checkbox.test_css_id" />
-        <item itemvalue="Python tests.Python tests for test_page.test_css_id" />
       </list>
     </recent_temporary>
   </component>
