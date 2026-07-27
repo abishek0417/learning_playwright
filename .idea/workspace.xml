@@ -62,6 +62,7 @@
     "Python tests.Python tests for test_page.test_css_id.executor": "Run",
     "Python tests.Python tests for test_playwrightlocator.test_getbyplaceholder.executor": "Run",
     "Python tests.Python tests for test_playwrightlocator.test_getbytext.executor": "Run",
+    "Python tests.Python tests for test_statictable.test_dropdown.executor": "Run",
     "Python tests.Python tests in test_runnerfile.py.executor": "Run",
     "Python.runnerfile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
