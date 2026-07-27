@@ -7,5 +7,5 @@ def test_dropdown(page:Page):
     page.goto("https://testautomationpractice.blogspot.com/#")
     page.locator("#male").check()
     a=["Sunday","Monday"]
-    for i in a:
-        page.get_by_text(i)
+    for j in a:
+        page.get_by_text(j)
