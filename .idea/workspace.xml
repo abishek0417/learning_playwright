@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9a237006-367e-41df-a898-c8011292f041" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/test_statictable.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/test_statictable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="testing" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,12 +34,12 @@
     &quot;assignee&quot;: &quot;abishek0417&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/abishek0417/playwright_learning.git&quot;,
-    &quot;accountId&quot;: &quot;c7e7f938-d1bc-4fb2-9a8b-e052a0eb3aaa&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abishek0417/learning_playwright.git",
+    "accountId": "c7e7f938-d1bc-4fb2-9a8b-e052a0eb3aaa"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,26 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_assignment.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_basic_launch.test_verify_url.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_checkbox.test_checkox.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_checkbox.test_css_id.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_css_selector.test_countofLI.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_css_selector.test_countofinnervalue.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_css_selector.test_css_id.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dropdown.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_page.test_css_id.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_playwrightlocator.test_getbyplaceholder.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_playwrightlocator.test_getbytext.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_runnerfile.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.runnerfile.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_assignment.test_dropdown.executor": "Run",
+    "Python tests.Python tests for test_basic_launch.test_verify_url.executor": "Run",
+    "Python tests.Python tests for test_checkbox.test_checkox.executor": "Run",
+    "Python tests.Python tests for test_checkbox.test_css_id.executor": "Run",
+    "Python tests.Python tests for test_css_selector.test_countofLI.executor": "Run",
+    "Python tests.Python tests for test_css_selector.test_countofinnervalue.executor": "Run",
+    "Python tests.Python tests for test_css_selector.test_css_id.executor": "Run",
+    "Python tests.Python tests for test_dropdown.test_dropdown.executor": "Run",
+    "Python tests.Python tests for test_page.test_css_id.executor": "Run",
+    "Python tests.Python tests for test_playwrightlocator.test_getbyplaceholder.executor": "Run",
+    "Python tests.Python tests for test_playwrightlocator.test_getbytext.executor": "Run",
+    "Python tests.Python tests in test_runnerfile.py.executor": "Run",
+    "Python.runnerfile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "testing"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python tests.Python tests for test_assignment.test_dropdown">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pw_python" />

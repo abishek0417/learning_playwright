@@ -5,3 +5,4 @@ days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 @allure.title("verify the dropdown")
 def test_dropdown(page:Page):
     page.goto("https://testautomationpractice.blogspot.com/#")
+    page.locator("#male").check()
