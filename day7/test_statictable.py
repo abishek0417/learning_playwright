@@ -9,3 +9,4 @@ def test_dropdown(page:Page):
     a=["Sunday","Monday"]
     for j in a:
         page.get_by_text(j)
+    print("helo hi")
